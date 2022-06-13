@@ -1,1 +1,2 @@
-# Toyota-Corolla-Analysis
+# Toyota Corolla Analysis
+In this project, I have built 5 regression models using Toyota Corolla Dataset. These are Linear, Polynomial, Decision tree, Random forest and XGBoost regression. Then measured and visualized the performance of the models. It turns out that XGBoost Regressor outperformed other models in every evaluations such as RMSE, R2_squared, CV_score. All these models which I have built can be used to predict Toyota Corolla used car price because all have over 85% in terrms of R2_squared. 
